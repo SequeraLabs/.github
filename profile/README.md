@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-You're probably looking for https://github.com/SeqeraLabs
+You're probably looking for [Seqera](https://github.com/SeqeraLabs)
